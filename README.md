@@ -1,11 +1,11 @@
-# ⚡ Data Analyst Agent — Your AI-Powered Data Companion  
+#  Data Analyst Agent — Your AI-Powered Data Companion  
 > Smarter, faster, and more intuitive analysis of your datasets using **Generative AI + Python magic.**  
 > Repository: *Insert your GitHub repo link here*
 
 ---
 
-## 📌 What Is This?
-Meet **Data Analyst Agent 2.0** — an AI-driven assistant that eliminates tedious data crunching.  
+##  What Is This?
+Meet **Data Analyst Agent ** — an AI-driven assistant that eliminates tedious data crunching.  
 Upload your dataset + queries, and instantly get:  
 ✅ Visual reports  
 ✅ AI-generated insights  
@@ -23,7 +23,7 @@ Perfect for:
 
 | Feature                  | Why It’s Awesome 🚀 |
 |---------------------------|----------------------|
-| 🤖 AI-Powered Insights    | Uses Google’s Generative AI to “understand” your data |
+|  AI-Powered Insights    | Uses Google’s Generative AI to “understand” your data |
 | 📊 Rich Visualizations    | Generates plots with **Seaborn & Matplotlib** |
 | 🌍 Web Scraper Mode       | Fetch live data directly from URLs |
 | 📂 Multi-Format Friendly  | Accepts CSV, Excel, JSON, Parquet, or TXT |
